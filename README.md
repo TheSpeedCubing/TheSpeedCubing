@@ -5,8 +5,8 @@
 - Learning: Java/SQL/php/Javascript
 -
 - My website: https://speedcubing.top
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSpeedCubing&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSpeedCubing&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedCubing&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 TheSpeedCubing/TheSpeedCubing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
