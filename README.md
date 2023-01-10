@@ -1,4 +1,3 @@
-- 17, he/him
 - Learning: Java/SQL/php/Javascript
 - Website: https://speedcubing.top
 <!--TheSpeedCubing/TheSpeedCubing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
