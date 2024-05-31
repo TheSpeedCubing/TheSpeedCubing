@@ -1,4 +1,3 @@
-- Former member of CKCSC-34th
 - Learning: Java/SQL/nodeJS/Javascript/php/python
 - Website: https://speedcubing.top
 - hackmd: https://hackmd.io/@speedcubing
