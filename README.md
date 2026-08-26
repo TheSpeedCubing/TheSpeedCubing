@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 - Website: https://speedcubing.top
 - Notes: https://speedcubing.top/notes
 - HackMD: https://hackmd.io/@speedcubing
+- World Cube Association: https://www.worldcubeassociation.org/persons/2018TSAI03
 
 ### Contact
 - Email: speedcubing@speedcubing.top
