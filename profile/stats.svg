@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">speedcubing&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 1062, Total PRs: 7, Total Issues: 6</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 1066, Total PRs: 7, Total Issues: 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 198.1740359626436;
+        stroke-dashoffset: 198.11848670167956;
       }
     }
   
