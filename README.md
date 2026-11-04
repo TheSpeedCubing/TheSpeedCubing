@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 ### Contact
 - Email: speedcubing@speedcubing.top
 - PGP: https://speedcubing.top/pub.asc / 7AEEEBC606BBCAB243C3E9C86D8E805D22322628
+- Telegram: https://t.me/speedcubing_top
